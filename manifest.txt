@@ -1,0 +1,2 @@
+sample1.txt|Sample Text File|A sample text file included for demonstration
+sample2.pdf|Sample PDF|A small sample PDF for testing
